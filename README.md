@@ -1,5 +1,5 @@
 # Airbnb_Boston_Market_Project
-  This is the first project for the Data Scientist Nanodegree Program. For this project, I picked the Boston Airbnb data and analyzed the following three questions:
+  This is the first project for the Data Scientist Nanodegree Program. For this project, I picked the Boston Airbnb data and analyzed the following three questions ( here is the link to my Medium blog https://medium.com/@zhosheng1128/airbnb-market-in-boston-7796af083279):
 1. For airbnb booking in the Boston area, is there any strong seasonality? If so, what is the seasonal pattern with regard to the number of booking changes?
 2. What are the top five influential listing factors in the Boston market?
 3. Is there any geographic preference in the Boston market?
