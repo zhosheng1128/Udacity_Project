@@ -1,20 +1,24 @@
-# Airbnb_Boston_Market_Project
-  The following are packages/libraries have been used in this project:
-  -pandas
-  -datetime
-  -pgeocode
-  -plotly.express
-  -LinearRegression
-  -train_test_split
-  -r2_score
-  -mean_squared_error
-  -sklearn.linear_model
-  -sklearn.model_selection
-  -sklearn.metrics
+#### The following are packages/libraries have been used in this project:
+<br> -pandas
+<br> -datetime
+<br> -pgeocode
+<br> -plotly.express
+<br> -LinearRegression
+<br> -train_test_split
+<br> -r2_score
+<br> -mean_squared_error
+<br> -sklearn.linear_model
+<br> -sklearn.model_selection
+<br> -sklearn.metrics
+#### Data sources for this project
+<br> Calendar.csv: contains date, availability, and price
+<br> listings.csv: contains all booking list info
 
-  
+##### Here is link to medium blog:https://medium.com/@zhosheng1128/airbnb-market-in-boston-7796af083279 
 
-  This is the first project for the Data Scientist Nanodegree Program. For this project, I picked the Boston Airbnb data and analyzed the following three questions ( here is the link to my Medium blog https://medium.com/@zhosheng1128/airbnb-market-in-boston-7796af083279):
+##### Acknowledgment: https://plotly.com/python/bubble-maps/
+
+##### Proposed three questions:
 1. For airbnb booking in the Boston area, is there any strong seasonality? If so, what is the seasonal pattern with regard to the number of booking changes?
 2. What are the top five influential listing factors in the Boston market?
 3. Is there any geographic preference in the Boston market?
